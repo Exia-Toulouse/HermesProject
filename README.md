@@ -1,5 +1,6 @@
-<h1>Hermes Project</h1>
+<h1 align="center">Hermes Project</h1>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Exia-Toulouse/HermesProject/master/Documentation/MadeInExiaCesi.jpg" /></p>
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/11026659/16308198/54ea414a-3964-11e6-9d4b-2ba3543733ee.jpg" /></p>
 
 <p>Hermes Project is an autonomous connected device in order to store alerts during shipping.
